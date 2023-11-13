@@ -1,5 +1,7 @@
 # EasyAccess Webpage
 
+As a Marketing agency We want a codebase that fallows accessibility standards so that our own site is optimized for search engines
+
 ## Description
 
 This Accessibility website was created for a marketing agency that has hired us to refactor an existing site to make it more accessible. It contains notes on HTML, CSS, and Git.
